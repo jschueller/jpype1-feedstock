@@ -26,6 +26,7 @@ requirements:
     - python
     - typing_extensions  # [py<38]
     - packaging
+    - openjdk
 
 test:
   imports:
